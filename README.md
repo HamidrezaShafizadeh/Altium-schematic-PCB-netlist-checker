@@ -1,5 +1,5 @@
 # Altium Designer schematic and PCB netlist matcher
-A simple Python script to check whether PCB netlist and Schematic Netlist are identical.
+A simple Python script to check whether PCB netlist and Schematic Netlist are identical or not.
 ## Dependencies
 + Python 3, from https://www.python.org/
 ## Usage
