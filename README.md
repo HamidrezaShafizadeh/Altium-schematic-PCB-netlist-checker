@@ -1,4 +1,4 @@
-# Altium Designer schematic and PCB netlist matcher
+# Altium Schematic And PCB Netlists Matcher (Or in short ASَPNC :D)
 A simple Python script to check whether PCB netlist and Schematic Netlist are identical or not.
 ## Dependencies
 + Python 3, from https://www.python.org/
