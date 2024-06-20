@@ -1,5 +1,5 @@
-# Altium Schematic And PCB Netlists Matcher (Or in short ASَPNC :D)
-A simple Python script to check whether PCB netlist and Schematic Netlist are identical or not.
+# Altium Schematic And PCB Netlists Matcher (Or in short ASAPNM :D)
+A simple Python script to check whether PCB netlist and Schematic Netlist are identical.
 ## Dependencies
 + Python 3, from https://www.python.org/
 ## Usage
